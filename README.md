@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+pls dont steal code but idk i cant stop you so go ahead
+anyways have fun idk much about stuff mostly html and css but will propebely learn 
+👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀
 <!--
 **kinda-bored/kinda-bored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 -->
